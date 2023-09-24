@@ -91,5 +91,13 @@ docs 폴더가 생겼구요
 
 ![docs 폴더 커밋](docs-folder-commit.png)
 
+https://woozoobro.github.io/HowToDocC/documentation/howtodocc
+
+현재처럼  
+
+닉네임.github.io/프로젝트 이름/documentation/프로젝트 이름 소문자  
+
+로 접근하면 documentation 페이지를 확인할 수 있습니다!!
+
 
 
