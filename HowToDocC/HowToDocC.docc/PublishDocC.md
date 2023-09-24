@@ -69,7 +69,7 @@ main 브랜치, 하위 디렉토리는 /docs가 되게 한 뒤 저장합니다.
 ```
 ➜  HowToDocC git:(main) ✗ $(xcrun --find docc) process-archive \
 transform-for-static-hosting ~/Desktop/FramStudy/HowToDocC/HowToDocC.doccarchive \
-> --output-path ~/Desktop/Framstudy/HowToDocC/docs \
+> --output-path ~/Desktop/FramStudy/HowToDocC/docs \
 > --hosting-base-path HowToDocC
 ➜  SwiftUIDocCSample git:(main) ✗
 ```
