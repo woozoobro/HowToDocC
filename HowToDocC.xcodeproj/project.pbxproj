@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		9DF1EDEA2AC027E700DB2EBF /* HowToDocCApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DF1EDE92AC027E700DB2EBF /* HowToDocCApp.swift */; };
-		9DF1EDEC2AC027E700DB2EBF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DF1EDEB2AC027E700DB2EBF /* ContentView.swift */; };
 		9DF1EDEE2AC027E800DB2EBF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9DF1EDED2AC027E800DB2EBF /* Assets.xcassets */; };
 		9DF1EDF12AC027E800DB2EBF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9DF1EDF02AC027E800DB2EBF /* Preview Assets.xcassets */; };
 		9DF1EDF82AC0280300DB2EBF /* HowToDocC.docc in Sources */ = {isa = PBXBuildFile; fileRef = 9DF1EDF72AC0280300DB2EBF /* HowToDocC.docc */; };
@@ -17,7 +16,6 @@
 /* Begin PBXFileReference section */
 		9DF1EDE62AC027E700DB2EBF /* HowToDocC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HowToDocC.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DF1EDE92AC027E700DB2EBF /* HowToDocCApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToDocCApp.swift; sourceTree = "<group>"; };
-		9DF1EDEB2AC027E700DB2EBF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9DF1EDED2AC027E800DB2EBF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9DF1EDF02AC027E800DB2EBF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9DF1EDF72AC0280300DB2EBF /* HowToDocC.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = HowToDocC.docc; sourceTree = "<group>"; };
@@ -54,7 +52,6 @@
 			isa = PBXGroup;
 			children = (
 				9DF1EDE92AC027E700DB2EBF /* HowToDocCApp.swift */,
-				9DF1EDEB2AC027E700DB2EBF /* ContentView.swift */,
 				9DF1EDF72AC0280300DB2EBF /* HowToDocC.docc */,
 				9DF1EDED2AC027E800DB2EBF /* Assets.xcassets */,
 				9DF1EDEF2AC027E800DB2EBF /* Preview Content */,
@@ -141,7 +138,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				9DF1EDF82AC0280300DB2EBF /* HowToDocC.docc in Sources */,
-				9DF1EDEC2AC027E700DB2EBF /* ContentView.swift in Sources */,
 				9DF1EDEA2AC027E700DB2EBF /* HowToDocCApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
