@@ -118,5 +118,6 @@ Publish되는 문서 변경이 필요할 경우에는 매번 doccarchive를 새�
 
 지금처럼 docs 폴더 내용을 새로운 doccarchive 패키지 내용으로 변경한 후에  
 
-push 해줘야 합니다
+push 해줘야 합니다   
 
+(base path 설정은 필요합니다! base path 설정이 안되어 있다면 빈 화면이 나올 거에요)
