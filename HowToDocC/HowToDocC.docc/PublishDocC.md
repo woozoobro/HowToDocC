@@ -74,6 +74,9 @@ transform-for-static-hosting ~/Desktop/FramStudy/HowToDocC/HowToDocC.doccarchive
 ➜  SwiftUIDocCSample git:(main) ✗
 ```
 
+왜 그런진 모르겠지만 복붙으로 했을 때 에러가 나온다면 
+직접 한번 쳐보시면 될겁니다.
+
 ![터미널로 docc 변환](make-docc-static.png)
 
 - transform-for 라인엔 저장해뒀던 HowToDocC.doccarchive 파일의 경로를  
@@ -101,23 +104,10 @@ docs 폴더가 생겼구요
 로 접근하면 documentation 페이지를 확인할 수 있습니다!!
 
 
-## 터미널 안 쓰고 더 쉽게 하는 방법
+## CI로 자동 배포 되게
 
-![패키지 내용 보기](check-package.png)  
+현재 배포된 문서를 변경하고 싶을 경우에 새로운 doccarchive를 만들고  
 
-내보낸 문서인 doccarchive의 패키지 내용을 확인할 수 있습니다.  
+docs 폴더를 다시 구성해줘야 합니다.  
 
-
-![패키지 확인](inside-package.png)  
-
-현재의 패키지 내용을 docs 폴더에 복붙해주는 걸로 퍼블리쉬 할 수도 있어요!
-
-![패키지 변경](copy-paste-docc.png)  
-
-Publish되는 문서 변경이 필요할 경우에는 매번 doccarchive를 새로 내보내고  
-
-지금처럼 docs 폴더 내용을 새로운 doccarchive 패키지 내용으로 변경한 후에  
-
-push 해줘야 합니다   
-
-(base path 설정은 필요합니다! base path 설정이 안되어 있다면 빈 화면이 나올 거에요)
+자동 배포 환경을 구성할 수 있는 것 같은데 추후에 업데이트 해보겠습니다!
