@@ -91,9 +91,10 @@ docs 폴더가 생겼구요
 
 ![docs 폴더 커밋](docs-folder-commit.png)
 
-https://woozoobro.github.io/HowToDocC/documentation/howtodocc
+아래 링크처럼
 
-현재처럼  
+> `https://woozoobro.github.io/HowToDocC/documentation/howtodocc`
+  
 
 닉네임.github.io/프로젝트 이름/documentation/프로젝트 이름 소문자  
 
