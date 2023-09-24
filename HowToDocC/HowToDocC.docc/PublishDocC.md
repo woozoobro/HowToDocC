@@ -89,7 +89,7 @@ docs 폴더가 생겼구요
 변경 사항들을 커밋 + push 해줍니다
 
 
-
+![docs 폴더 커밋](docs-folder-commit.png)
 
 
 
