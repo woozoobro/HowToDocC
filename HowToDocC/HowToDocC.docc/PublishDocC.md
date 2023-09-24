@@ -99,3 +99,24 @@ docs 폴더가 생겼구요
 닉네임.github.io/프로젝트 이름/documentation/프로젝트 이름 소문자  
 
 로 접근하면 documentation 페이지를 확인할 수 있습니다!!
+
+
+## 터미널 안 쓰고 더 쉽게 하는 방법
+
+![패키지 내용 보기](check-package.png)  
+
+내보낸 문서인 doccarchive의 패키지 내용을 확인할 수 있습니다.  
+
+
+![패키지 확인](inside-package.png)  
+
+현재의 패키지 내용을 docs 폴더에 복붙해주는 걸로 퍼블리쉬 할 수도 있어요!
+
+![패키지 변경](copy-paste-docc.png)  
+
+Publish되는 문서 변경이 필요할 경우에는 매번 doccarchive를 새로 내보내고  
+
+지금처럼 docs 폴더 내용을 새로운 doccarchive 패키지 내용으로 변경한 후에  
+
+push 해줘야 합니다
+
